@@ -49,7 +49,7 @@ Investigate how input resolution and convolutional kernel size affect the perfor
 ## How to Run
 Run in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nipun-taneja/cnn-input-kernel-analysis/blob/main/Experiment_01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nipun-taneja/cnn-input-kernel-analysis/blob/main/cnn_input_kernel_analysis.ipynb)
 
 ---
 
